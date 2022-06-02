@@ -1,16 +1,18 @@
-### Hi there 👋
+# Jeon su-jin
+안녕하세요. 저는 비전공자 출신으로 부트캠프 교육 프로그램을 이수하여 현재는 취업을 준비하고 있는 신입 프론트엔드 개발자입니다. 🖥
 
-<!--
-**soozynn/soozynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+코딩의 재미를 느껴 혼자서 독학으로 공부를 하다 우연찮은 기회로 바닐라코딩 prep 과정을 듣게 되었고, 이 때의 경험을 통해 개발자로서의 직업 전향을 꿈꾸게 되었습니다. 
+이후, 부트캠프를 수료하여 현재는 개발자로서 한 걸음 나아가기 위해 취업을 준비하고 있습니다.
 
-Here are some ideas to get you started:
+## How it all started
+저는 개발자와는 거리가 너무나 먼 치과위생사라는 직업으로 일을 한 경험이 있습니다.
+취업만을 바라보고 선택한 직업이었기에 좀 더 나의 적성에 맞으면서 일에 대한 성취감을 끌어올릴 수 있는, 또 내가 재미를 느낄 수 있는 직업이 무엇이 있을까? 라는 물음이 늘 곁에 따라다녔습니다.
+당시에는 시간이 날 때마다 닥치는 대로 다 경험을 해보자! 라는 마인드를 가지고 있었기에 코딩의 기초를 알려주는 과정을 듣게 되었고, 이후 제 삶에 변화가 찾아오게 되었습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Philosophy
+안주하지 않고 꾸준히 노력하는 개발자가 되고자 합니다.
+
+
+# How to reach me
+💌 junsuejin98@gmail.com
