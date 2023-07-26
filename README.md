@@ -7,7 +7,7 @@
 ## Career
 - VanillaCoding Prep 11기 수료
 - VanillaCoding Bootcamp 11기 수료
-- Frontend Engineer at [torder](http://torder.io/)
+- Frontend Engineer at [t'order](http://torder.io/)
 
 # How to reach me
 💌 junsuejin98@gmail.com
