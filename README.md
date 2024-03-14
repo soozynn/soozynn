@@ -1,16 +1,10 @@
 # Jeon su-jin
 안녕하세요. 프론트엔드 개발자 전수진입니다. 저는 타인의 일상을 보다 효율적으로 만들어주고, 편리함을 제공하는 소프트웨어를 만드는 것에 관심이 있습니다. 함께 협력하여 더 나은 세상을 만들어가는 일에 기여하고 싶습니다.
 
-## Philosophy
-> 안주하지 않고 꾸준히 노력해 나아가는 프론트엔드 개발자가 되고자 합니다.
-
 ## Career
 - VanillaCoding Prep 11기 수료
 - VanillaCoding Bootcamp 11기 수료
 - Frontend Engineer at [t'order](http://torder.io/) (22.09 ~ 24.01)
-
-## How to reach me
-💌 junsuejin98@gmail.com
 
 ## Teck Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
