@@ -38,7 +38,7 @@ I enjoy building scalable services and improving operational workflows through b
 
 <br/>
 
-## Contact
+## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/soozynn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-soozynn.vercel.app/ko)
