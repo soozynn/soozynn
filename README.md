@@ -1,9 +1,9 @@
 Hi there! 👋  
 
-I'm Soojin, a frontend developer based in Seoul, South Korea 🇰🇷</br>
+I'm Soojin, a frontend developer lives in Seoul, South Korea 🇰🇷</br>
 
 I completed the Frontend Engineering Bootcamp at Vanilla Coding 🎓, </br>
-and later gained hands-on experience at a startup, building and operating real-world admin systems and ordering platforms.  
+and gained hands-on experience at a startup, building and operating admin systems and ordering platforms.  
 
 I enjoy building scalable services and improving operational workflows through better UX and thoughtful structure.
 
