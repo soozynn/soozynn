@@ -1,6 +1,6 @@
 Hi there! 👋  
 
-I'm Soojin, a frontend developer lives in Seoul, South Korea 🇰🇷</br>
+I'm Soojin, a frontend Engineer lives in Seoul, South Korea 🇰🇷</br>
 
 I completed the Frontend Engineering Bootcamp at Vanilla Coding 🎓, </br>
 and gained hands-on experience at a startup, building and operating admin systems and ordering platforms.  
